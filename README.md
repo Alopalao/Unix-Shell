@@ -1,7 +1,7 @@
 # Unix-Shell
-A command line interpreter in C
-Commands: ">", ">>", "<" and "|"
-">" Redirect standard output from a command to a file. Eg. ls > 1 \n
+A command line interpreter in C <br />
+Commands: ">", ">>", "<" and "|" <br />
+">" Redirect standard output from a command to a file. Eg. ls > 1
 ">>" Append standard output from a command to a file. Eg. "Hello world" >> 1
 "<" Redirecct standard input to be from a file. Eg. sort < 1
 "|" Pass the standard output of one command to another for further processing. Eg. ls | sort
